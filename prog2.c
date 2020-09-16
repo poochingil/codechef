@@ -1,6 +1,6 @@
 #include <stdio.h> 
-
-int main() {
+int main()
+{
 	int T,a,b,ans;
 	scanf("%d",&T);
 	while(T>0)
